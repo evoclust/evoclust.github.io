@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on MvC</title>
+    <title>Authors on MvC Repository</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on MvC</description>
+    <description>Recent content in Authors on MvC Repository</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;A repository of multi-view data clustering approaches using evolutionary algorithms&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -19,17 +29,6 @@
       <guid>/authors/adan/</guid>
       <description>&lt;p&gt;I received the B.Sc. degree in computer science from the Technological Institute of Culiacan in 2010, and the M.Sc. and Ph.D. degrees in computer science from the Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico, in 2012 and 2017, respectively. I am currently a Postdoctoral Researcher with the Decision and Cognitive Sciences Research Centre, University of Manchester, Manchester, United Kingdom.&lt;/p&gt;
 &lt;p&gt;My main research interests involve the study and design of data clustering techniques based on nature-inspired metaheuristics and their applications to problems from areas such as digital image segmentation and machine learning. Recently, I have been focused on the development of a multiobjective evolutionary approach for multi-view data clustering and its application to a range of application domains, ranging from network analysis to medical imaging data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am an Alan Turing Fellow and Senior Lecturer (Associate Professor) in the Decision and Cognitive Sciences Research Centre at the University of Manchester. Prior to this I was an MRC Special Training Fellow at the University of Manchester and the University of Washington.&lt;/p&gt;
-&lt;p&gt;I hold a PhD from the University of Manchester, a Masters degree in Computer Science from the University of Erlangen-Nuremberg and a Bachelor (Hons) degree from Monash University&lt;/p&gt;
 </description>
     </item>
     
@@ -50,6 +49,17 @@
       
       <guid>/authors/wilfrido/</guid>
       <description>&lt;p&gt;I received the B.S. degree in Electronic and Communications Engineering from the Universidad Tecnológica de México in 2004. Next, I obtained the M.Sc (2006) and D.Sc. (2009) degrees in Electrical Engineering at Centro de Investigación y de Estudios Avanzados del I.P.N. (CINVESTAV-IPN). Since 2010, I am full-time professor at the CINVESTAV Unidad Tamaulipas. Currently, I am SNI (National System of Researchers) member level 1. My main research fields of interest are Pattern Recognition and Digital Image Analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/julia/</guid>
+      <description>&lt;p&gt;I am an Alan Turing Fellow and Senior Lecturer (Associate Professor) in the Decision and Cognitive Sciences Research Centre at the University of Manchester. Prior to this I was an MRC Special Training Fellow at the University of Manchester and the University of Washington.&lt;/p&gt;
+&lt;p&gt;I hold a PhD from the University of Manchester, a Masters degree in Computer Science from the University of Erlangen-Nuremberg and a Bachelor (Hons) degree from Monash University&lt;/p&gt;
 </description>
     </item>
     
